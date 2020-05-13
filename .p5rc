@@ -1,0 +1,12 @@
+{
+  "name": "Collection",
+  "projects": [
+    "snake",
+    "fractal",
+    "triangle",
+    "mandelbrot",
+    "doublependulum",
+    "orbit",
+    "sorting"
+  ]
+}
